@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"name": "Lab5",
+			"path": "../../../Lab5"
+		},
+		{
+			"name": "wifi-demo",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
